@@ -1,0 +1,8 @@
+body{
+    background-color: red;
+}
+
+#carouselExampleIndicators img {
+    width:640px;
+    height:360px;
+}
